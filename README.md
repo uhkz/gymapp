@@ -1,5 +1,5 @@
 
-Ik krijg het helaas niet helemaal voor elkaar om mijn project online te zetten.
+
 
 Bijgevoegd vindt u mijn project in een zipbestand. Volg de onderstaande instructies om het project lokaal op uw computer te openen en uit te voeren:
 
